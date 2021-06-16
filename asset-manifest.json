@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/turnos-react/static/css/main.2b1b07fa.chunk.css",
+    "main.js": "/turnos-react/static/js/main.74de00fc.chunk.js",
+    "main.js.map": "/turnos-react/static/js/main.74de00fc.chunk.js.map",
+    "runtime-main.js": "/turnos-react/static/js/runtime-main.725d98c1.js",
+    "runtime-main.js.map": "/turnos-react/static/js/runtime-main.725d98c1.js.map",
+    "static/js/2.c644c378.chunk.js": "/turnos-react/static/js/2.c644c378.chunk.js",
+    "static/js/2.c644c378.chunk.js.map": "/turnos-react/static/js/2.c644c378.chunk.js.map",
+    "static/js/3.393d8ad9.chunk.js": "/turnos-react/static/js/3.393d8ad9.chunk.js",
+    "static/js/3.393d8ad9.chunk.js.map": "/turnos-react/static/js/3.393d8ad9.chunk.js.map",
+    "index.html": "/turnos-react/index.html",
+    "static/css/main.2b1b07fa.chunk.css.map": "/turnos-react/static/css/main.2b1b07fa.chunk.css.map",
+    "static/js/2.c644c378.chunk.js.LICENSE.txt": "/turnos-react/static/js/2.c644c378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725d98c1.js",
+    "static/js/2.c644c378.chunk.js",
+    "static/css/main.2b1b07fa.chunk.css",
+    "static/js/main.74de00fc.chunk.js"
+  ]
+}
